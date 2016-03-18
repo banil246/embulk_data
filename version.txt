@@ -1,0 +1,24 @@
+
+embulk-decoder-commons-compress (0.3.3)
+embulk-filter-column (0.3.1)
+embulk-formatter-jsonl (0.1.4)
+embulk-output-td (0.2.1, 0.2.0)
+embulk-parser-json (0.0.1)
+embulk-parser-jsonl (0.0.1)
+jar-dependencies (0.1.15)
+jrjackson (0.2.9)
+jruby-openssl (0.9.7 java)
+json (1.8.0 java)
+jsonpath (0.5.8)
+minitest (5.4.1)
+multi_json (1.11.2)
+power_assert (0.2.3)
+psych (2.0.14.pre1 java)
+rake (10.1.0)
+rdoc (4.1.0)
+test-unit (3.0.3)
+
+mbulk 0.7.11
+
+
+
